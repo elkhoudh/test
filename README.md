@@ -1,3 +1,3 @@
 # test
 
-Hi My name is .................
+Hi, our names are Hamza and John.
